@@ -120,7 +120,7 @@ x4 = -5  (expected -5)
 
 ### Pipeline Waveform
 
-![Pipeline Waveform](PASTE_SECOND_IMAGE_URL_HERE)
+![Pipeline Waveform](https://github.com/mansiayyadevara/RTL-Design-of-a-5-Stage-In-Order-Pipelined-RISC-V-RV32I-Processor/blob/main/final_pipeline.png?raw=true)
 
 ---
 ## Tools
