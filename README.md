@@ -156,5 +156,3 @@ Planned future work includes taking this processor through a complete RTL-to-GDS
 
 - [RISC-V Unprivileged ISA Specification](https://riscv.org/specifications/)
 - Patterson & Hennessy — *Computer Organization and Design: RISC-V Edition*
-- [SkyWater Sky130 PDK](https://github.com/google/skywater-pdk)
-- [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
