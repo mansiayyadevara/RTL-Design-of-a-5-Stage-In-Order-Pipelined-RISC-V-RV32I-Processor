@@ -6,38 +6,6 @@ module independently verified before integration.
 
 ---
 
-## Repository Structure
-.
-├── src/
-│   ├── alu.v
-│   ├── register_file.v
-│   ├── instruction_memory.v
-│   ├── data_memory.v
-│   ├── imm_gen.v
-│   ├── control_unit.v
-│   ├── pc.v
-│   ├── if_id_reg.v
-│   ├── id_ex_reg.v
-│   ├── ex_mem_reg.v
-│   ├── mem_wb_reg.v
-│   ├── hazard_unit.v
-│   ├── riscv_single_cycle.v
-│   └── riscv_pipeline.v
-├── tb/
-│   ├── alu_tb.v
-│   ├── register_file_tb.v
-│   ├── instruction_memory_tb.v
-│   ├── data_memory_tb.v
-│   ├── imm_gen_tb.v
-│   ├── control_unit_tb.v
-│   └── riscv_pipeline_tb.v
-├── docs/
-│   └── waveforms/
-└── README.md
-
----
-
-
 ### Pipeline Stages
 IF → ID → EX → MEM → WB
 
