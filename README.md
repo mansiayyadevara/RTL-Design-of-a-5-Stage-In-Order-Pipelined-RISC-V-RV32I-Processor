@@ -112,13 +112,17 @@ x4 = -5  (expected -5)
 === Done ===
 
 ---
-
 ## Simulation Results
 
-![Pipeline Waveform](docs/waveforms/pipeline_waveform.png)
+### Output Verification
+
+![Output](PASTE_IMAGE_URL_HERE)
+
+### Pipeline Waveform
+
+![Pipeline Waveform](PASTE_SECOND_IMAGE_URL_HERE)
 
 ---
-
 ## Tools
 
 | Tool | Purpose |
